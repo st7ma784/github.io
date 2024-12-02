@@ -30,7 +30,7 @@ twitter_username:
 github_username:  st7ma784
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
